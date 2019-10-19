@@ -1,0 +1,20 @@
+{
+  "name": "react-use-components",
+  "version": "0.1.0",
+  "description": "Components in React Context",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlbarrdahl/react-use-components.git"
+  },
+  "author": "Carl Barrdahl <carlbarrdahl@gmail.com>",
+  "homepage": "https://github.com/carlbarrdahl/react-use-components#readme",
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
+}
